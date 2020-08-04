@@ -1,6 +1,11 @@
 # FoodLens SDK iOS Example
 
-Get your clientId and clientSecret at https://dev.caloriemama.ai/
+To get started: 
+
+1. Get your clientId and clientSecret at https://dev.caloriemama.ai/
+2. `pod install`
+3. `open "FoodLens SDK Example.xcworkspace"`
+
 
 SDK details at https://github.com/azumio/argus-sdk-ios-public/tree/master/food-lens-sdk
 
