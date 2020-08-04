@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3ABF03C2-B97C-4C48-8F53-335984BCEDA3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0731B2B8-BA95-486A-B1C1-4F3A14190B18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodLens SDK Example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7159963B-E8E3-4CD2-95EE-41FDE4C7686F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodLens SDK Example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7159963B-E8E3-4CD2-95EE-41FDE4C7686F - defda499bcf42acd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FoodLens_SDK_Example.ViewController.TokenResponse) -&gt; () in FoodLens_SDK_Example.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "FoodLens SDK Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pero/git/foodlens-sdk-ios-example1/FoodLens%20SDK%20Example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "7159963B-E8E3-4CD2-95EE-41FDE4C7686F - e2ab9dbfb7b0b315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FoodLens&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (FoodLens_SDK_Example.ViewController.TokenResponse) -&gt; () in FoodLens_SDK_Example.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "FoodLens SDK Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pero/git/foodlens-sdk-ios-example1/FoodLens%20SDK%20Example/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9994DC9-2D94-4520-948E-06C4DB88F620"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodLens SDK Example/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "foodLensPut(_:foodCheckIn:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
