@@ -10,6 +10,8 @@ import UIKit
 import FoodLensSDK
 
 class ViewController: UIViewController, FoodLensDelegate {
+    static let clientId = "GET IT AT https://dev.caloriemama.ai/"
+    static let clientSecret = "GET IT AT https://dev.caloriemama.ai/"
    
     func foodLensPut(_ foodLens: FoodLens, foodCheckIn: FoodLensFoodCheckIn, from viewController: UIViewController?) {
         if let data = try? JSONSerialization.data(withJSONObject: foodCheckIn.dictionaryRepresentation, options: [.prettyPrinted]) {
@@ -78,9 +80,6 @@ class ViewController: UIViewController, FoodLensDelegate {
             }
         }
     }
-    
-    static let clientId = "GET IT AT https://dev.caloriemama.ai/"
-    static let clientSecret = "GET IT AT https://dev.caloriemama.ai/"
     
     private static var urlSession = URLSession(configuration: URLSessionConfiguration.default)
     
